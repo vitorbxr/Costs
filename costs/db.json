@@ -12,17 +12,6 @@
       "id": 1
     },
     {
-      "name": "teste2",
-      "budget": "149",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
       "name": "teste3",
       "budget": "1234565",
       "category": {
@@ -32,17 +21,6 @@
       "cost": 0,
       "services": [],
       "id": 3
-    },
-    {
-      "name": "teste4",
-      "budget": "7675",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
     }
   ],
   "categories": [
