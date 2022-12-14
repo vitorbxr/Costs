@@ -1,14 +1,21 @@
 {
   "projects": [
     {
-      "name": "teste1",
-      "budget": "1200",
+      "name": "teste atualizado",
+      "budget": "20000",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "3",
+        "name": "Design"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 3423,
+      "services": [
+        {
+          "name": "sdfjh",
+          "cost": "3423",
+          "description": "sdfjhsdkjh",
+          "id": "8c2e361d-6460-40b4-bc12-50a7d1751015"
+        }
+      ],
       "id": 1
     },
     {
